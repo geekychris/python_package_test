@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Python Package Test logo" width="180">
+</p>
+
 # Simple Calculator
 
 A simple Python calculator package with basic arithmetic operations.
